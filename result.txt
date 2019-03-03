@@ -1,0 +1,17 @@
+lum6 : Lumidigm
+fut3 : Futronics
+sec1 : SecuGen
+sec5 : SecuGen
+fut2 : Futronics
+sec2 : SecuGen
+sec3 : SecuGen
+fut1 : Futronics
+fut4 : Futronics
+lum1 : Lumidigm
+sec6 : SecuGen
+fut5 : Futronics
+fut6 : Futronics
+lum2 : Lumidigm
+lum5 : Lumidigm
+lum4 : Lumidigm
+sec4 : SecuGen
